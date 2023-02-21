@@ -1,4 +1,4 @@
-<img src = "https://github.com/manushiez/manushiez/blob/main/Growing%20myself.png">
+<img src = "https://github.com/mohityadav695/mohityadav695/blob/main/Growing%20myself-2.png">
 
 
 <p align="center">
@@ -13,8 +13,8 @@
 <br/>
 <p align="left">
   <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manushiez&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohityadav695&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohityadav695&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
