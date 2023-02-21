@@ -18,7 +18,3 @@
   </a>
 </p>
 <br>
-
-<a href="https://www.data-card-for-spotify.com/card?user_id=mho75dj3r215lo924qzseymki">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=mho75dj3r215lo924qzseymki" alt="Data Card for Spotify">
-</a>
