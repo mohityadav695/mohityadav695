@@ -1,4 +1,4 @@
-<img src = "https://github.com/mohityadav695/mohityadav695/blob/main/Growing%20myself-2.png">
+<img src = "https://github.com/mohityadav695/mohityadav695/blob/main/Growing%20myself-3.png">
 
 
 <p align="center">
